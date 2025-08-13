@@ -17,7 +17,7 @@
     "url": "https://github.com/Akeyroid7/kinoria-zenn-docs/issues"
   },
   "homepage": "https://github.com/Akeyroid7/kinoria-zenn-docs#readme",
-  "dependencies": {
-    "zenn-cli": "^0.1.158"
+  "devDependencies": {
+    "zenn-cli": "^0.2.1"
   }
 }
